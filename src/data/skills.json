@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  },
+  {
+    "title": "Cloud",
+    "imageSrc": "skills/cloud-computing.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Administrator",
+    "imageSrc": "skills/administrator.png"
+  }
+  
+  
+]
