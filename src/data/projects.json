@@ -1,17 +1,16 @@
 [
   {
-    "title": "AI Disater Mangement",
+    "title": "NeoSoft - Hospital Management System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "Javascripit", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project I Work to Deploy an Neosoft app.",
+    "skills": ["Linux","Cloud","DBA"]
+   
   },
   {
-    "title": "Kaju Resort",
+    "title": "UnboxRobotics System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS"],
+    "description": "This is a project I work on System Deployment & Operations",
+    "skills": ["Linux","Cloud","Devops"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
